@@ -16,7 +16,7 @@
   },
   "config": {
     "mongodbMemoryServer": {
-      "version": "latest"
+      "version": "v4.4-latest"
     }
   },
   "keywords": [],
